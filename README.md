@@ -1,1 +1,1 @@
-# USEconomySCurve2
+# SCurveStockPredictor
